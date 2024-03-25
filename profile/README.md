@@ -3,6 +3,10 @@
 The Carpentries Incubator is a place for collaborative development of new lessons. 
 It provides a space for The Carpentries community to create, test, and improve lessons, supported by systems, process, and training to foster collaboration and promote better lesson design.
 
+## What lessons are in the Incubator?
+The Carpentries Incubator contains more than 100 lesson projects. 
+You can browse these in the [repository listing](https://github.com/orgs/carpentries-incubator/repositories) of this GitHub organisation, or use [the table of Community Developed Lessons on The Carpentries website](https://carpentries.org/community-lessons/).
+
 ## Why develop lessons in the Incubator?
 Lessons designed, developed and published as Open Source projects are easier for others to re-use, contribute to, maintain, and sustain.
 The Carpentries supports the community's lessons in the Incubator by:
